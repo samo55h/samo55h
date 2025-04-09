@@ -1,5 +1,6 @@
 #!/bin/bash
 
-# Deployment Script Template
-# This script is a template for deploying projects.
-# Adjust the commands below based on your deployment needs.
+# Deployment Script for samo55h Repository
+# This script builds and deploys the project.
+
+echo "Starting build process..."
