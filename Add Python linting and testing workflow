@@ -1,0 +1,6 @@
+name: Python Linting and Testing
+
+on:
+  push:
+    paths:
+      - "**/*.py"
