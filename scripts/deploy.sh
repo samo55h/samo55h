@@ -6,3 +6,7 @@
 echo "Starting build process..."
 chmod +x scripts/deploy.sh
 ./scripts/deploy.sh
+
+chmod +x scripts/deploy.sh
+
+./scripts/deploy.sh
