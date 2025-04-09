@@ -1,0 +1,6 @@
+# ~/.bashrc: executed by bash(1) for non-login shells.
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+# Enable color support for ls and add handy aliases
